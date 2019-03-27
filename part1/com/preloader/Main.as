@@ -1,0 +1,1 @@
+﻿package com.preloader {	import flash.display.MovieClip;	import flash.events.Event;		public class Main extends MovieClip {		public function Main() {			preloader.addEventListener(Event.COMPLETE, onPreloaderComplete);			preloader.setLoaderInfo(loaderInfo);		}				private function onPreloaderComplete(event:Event):void {			gotoAndStop(3);		}	}	}
