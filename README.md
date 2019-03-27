@@ -1,2 +1,2 @@
-# mr-rand-case-DEPRECATED
-A interactive scenario based learning - DEPRECATED
+# DEPRECATED: No longer in active development.
+A Flash interactive scenario based learning.
